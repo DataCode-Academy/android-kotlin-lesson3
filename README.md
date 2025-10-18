@@ -268,15 +268,6 @@ These annotations acknowledge that we're using experimental APIs that might chan
 
 ---
 
-## 📝 Next Steps
-
-After mastering this lesson, you'll be ready for:
-- **Lesson 4:** Navigation & Multi-Screen Apps
-- **Lesson 5:** ViewModel & State Management
-- **Lesson 6:** API Integration & Data Persistence
-
----
-
 **Happy Learning! 🎉**
 
 If you found this lesson helpful, practice by building your own list-based apps (Todo, Shopping List, Notes, etc.)
